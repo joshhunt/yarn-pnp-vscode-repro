@@ -19,7 +19,4 @@ const hello = [
   "world",
 ];
 
-
-
-
 window.prompt();
